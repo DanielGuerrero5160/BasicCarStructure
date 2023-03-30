@@ -11,5 +11,10 @@ public class Main {
 x.size="1234cc";
 x.weight="6547k";
 
+color c=new color();
+c.colorLights="blue";
+c.colorTire="black";
+c.colorWindow="tinted";
+
     }
 }
